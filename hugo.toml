@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Тестовый сайт для Сергея'
+# theme = 'ananke'
+# theme = 'simpleit-hugo-theme'
+# theme = 'zen'
+theme = 'hugo-theme-relearn'
+# theme = 'terminal'
+# theme = 'blowfish'
+
+sectionPagesMenu = 'main'
+
+
+# [menu]
+#   [[menu.main]]
+    # identifier = 'd1'
+    # name = 'Dir1'
+    # url = '/dir1/'
+    # weight = 1
+# 
+#   [[menu.main]]
+    # identifier = 'd2'
+    # name = 'Dir2'
+    # url = '/dir2/'
+    # weight = 2
+# 
+    # [[menu.main]]
+    #   identifier = 'd11'
+    #   name = 'Dir11'
+    #   url = '/dir1/dir11/'
+    #   weight = 3
+    #   parent = 'Dir1'

@@ -1,0 +1,19 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/simpleit-hugo-theme"]
+	path = themes/simpleit-hugo-theme
+	url = https://github.com/marcanuy/simpleit-hugo-theme
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/McShelby/hugo-theme-relearn.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

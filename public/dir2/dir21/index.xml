@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir21 :: Тестовый сайт для Сергея</title>
+    <link>http://localhost:1313/dir2/dir21/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 04:42:26 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/dir2/dir21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dir21page3</title>
+      <link>http://localhost:1313/dir2/dir21/dir21page3/index.html</link>
+      <pubDate>Sun, 25 Jan 2026 04:42:26 +0300</pubDate>
+      <guid>http://localhost:1313/dir2/dir21/dir21page3/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dir21page2</title>
+      <link>http://localhost:1313/dir2/dir21/dir21page2/index.html</link>
+      <pubDate>Sun, 25 Jan 2026 04:42:21 +0300</pubDate>
+      <guid>http://localhost:1313/dir2/dir21/dir21page2/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dir21page1</title>
+      <link>http://localhost:1313/dir2/dir21/dir21page1/index.html</link>
+      <pubDate>Sun, 25 Jan 2026 04:41:17 +0300</pubDate>
+      <guid>http://localhost:1313/dir2/dir21/dir21page1/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
