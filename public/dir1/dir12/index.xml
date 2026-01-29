@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Директория Dir12 :: Тестовый сайт для Сергея</title>
-    <link>http://localhost:1313/dir1/dir12/index.html</link>
+    <link>http://localhost:50641/dir1/dir12/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2026 03:30:20 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/dir1/dir12/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50641/dir1/dir12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dir12page1</title>
-      <link>http://localhost:1313/dir1/dir12/dir12page1/index.html</link>
+      <link>http://localhost:50641/dir1/dir12/dir12page1/index.html</link>
       <pubDate>Sun, 25 Jan 2026 03:30:20 +0300</pubDate>
-      <guid>http://localhost:1313/dir1/dir12/dir12page1/index.html</guid>
+      <guid>http://localhost:50641/dir1/dir12/dir12page1/index.html</guid>
       <description></description>
     </item>
   </channel>

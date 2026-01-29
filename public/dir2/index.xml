@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Основная страница для Dir2 :: Тестовый сайт для Сергея</title>
-    <link>http://localhost:1313/dir2/index.html</link>
+    <link>http://localhost:50641/dir2/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2026 04:41:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/dir2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50641/dir2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dir21</title>
-      <link>http://localhost:1313/dir2/dir21/index.html</link>
+      <link>http://localhost:50641/dir2/dir21/index.html</link>
       <pubDate>Sun, 25 Jan 2026 04:41:00 +0300</pubDate>
-      <guid>http://localhost:1313/dir2/dir21/index.html</guid>
+      <guid>http://localhost:50641/dir2/dir21/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Dir2page1</title>
-      <link>http://localhost:1313/dir2/dir2page1/index.html</link>
+      <link>http://localhost:50641/dir2/dir2page1/index.html</link>
       <pubDate>Sun, 25 Jan 2026 03:25:20 +0300</pubDate>
-      <guid>http://localhost:1313/dir2/dir2page1/index.html</guid>
+      <guid>http://localhost:50641/dir2/dir2page1/index.html</guid>
       <description></description>
     </item>
   </channel>
